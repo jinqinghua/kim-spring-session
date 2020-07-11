@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>kim</groupId>
+    <artifactId>demo-spring-session</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>demo-spring-session</name>
+
+    <modules>
+        <module>demo-spring-session-jdbc</module>
+        <module>demo-spring-session-jdbc-embedded</module>
+        <module>demo-spring-session-redis</module>
+    </modules>
+</project>
