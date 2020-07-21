@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>kim</groupId>
-    <artifactId>demo-spring-session-redis</artifactId>
+    <artifactId>kim-spring-session-redis</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
-    <name>demo-spring-session-redis</name>
+    <name>kim-spring-session-redis</name>
 
     <properties>
         <java.version>1.8</java.version>
